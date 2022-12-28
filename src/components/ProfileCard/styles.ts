@@ -77,7 +77,6 @@ export const ProfileCardStyle = styled.div`
       height: 18px;
       width: 18px;
       margin-right: 8px;
-
     }
     & > div:nth-child(1) {
       font-style: normal;
@@ -103,7 +102,6 @@ export const ProfileCardStyle = styled.div`
       width: 390px;
       display: flex;
       justify-content: space-between;
-
 
       & > div {
         display: flex;
